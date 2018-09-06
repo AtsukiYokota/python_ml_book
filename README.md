@@ -3,12 +3,10 @@
 
 ## contents
 - chapter13
- - TensorFlow事始め
- - 線形回帰
- - 多層NN
-
+  - TensorFlow事始め
+  - 線形回帰
+  - 多層NN
 - chapter14
- - TensorFlowについて
-
+  - TensorFlowについて
 - chapter16
- - RNNについて
+  - RNNについて
